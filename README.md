@@ -9,7 +9,7 @@
 
 ## 😎 About Me
 Hello there! 👋 I'm Arjun Singh, a passionate Web developer and technology enthusiast. Welcome to my GitHub profile!
-I am a Final Year B.Tech. Computer Science student. I am found of web development technologies such as React.JS, HTML, CSS, etc.
+I am Working As a Software Engineer in SOPRASTERIA. I am found of web development technologies such as React.JS,Angular ,Vue, HTML, CSS, etc.
 
 ---
 
